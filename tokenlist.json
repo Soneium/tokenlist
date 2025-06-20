@@ -1,0 +1,43 @@
+{
+    "name": "Soneium Token List",
+    "timestamp": "2025-06-20T00:00:00+00:00",
+    "tokens": [
+      {
+        "chainId": 1868,
+        "address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+        "symbol": "USDCE",
+        "name": "Soneium Bridged USDC",
+        "decimals": 6,
+        "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM"
+      },
+      {
+        "chainId": 1868,
+        "address": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+        "symbol": "ASTR",
+        "name": "Soneium Bridged ASTR",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/53778/large/astar.jpg?1737341226"
+      },
+      {
+        "chainId": 1868,
+        "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+        "symbol": "USD₮0",
+        "name": "Stargate USD₮0 (Bridged)",
+        "decimals": 6,
+        "logoURI": "https://docs.usdt0.to/~gitbook/image?url=https%3A%2F%2F2344189142-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FHytE5q346VLLbrVSUNpY%252Fuploads%252FGbQORpmUVLWNsJ7ksM7b%252FLogo%2520USDT0%2520Png%2520512x512.png%3Falt%3Dmedia%26token%3D4c4f40e2-ade3-4f89-9443-cda9fe9b65a9&width=768&dpr=4&quality=100&sign=d78a4720&sv=2"
+      },
+      {
+        "chainId": 1868,
+        "address": "0x4200000000000000000000000000000000000006",
+        "symbol": "WETH",
+        "name": "Superbridge Bridged WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/53777/large/weth_2.jpg?1737340348"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
