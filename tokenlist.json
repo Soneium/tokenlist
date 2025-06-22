@@ -30,7 +30,7 @@
         "chainId": 1868,
         "address": "0x4200000000000000000000000000000000000006",
         "symbol": "WETH",
-        "name": "Superbridge Bridged WETH",
+        "name": "Superbridge Bridged WETH Soneium",
         "decimals": 18,
         "logoURI": "https://assets.coingecko.com/coins/images/53777/large/weth_2.jpg?1737340348"
       }
