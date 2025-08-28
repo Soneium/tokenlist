@@ -1,6 +1,6 @@
 {
     "name": "Soneium Token List",
-    "timestamp": "2025-06-20T00:00:00+00:00",
+    "timestamp": "2025-08-13T00:00:00+00:00",
     "tokens": [
       {
         "chainId": 1868,
@@ -34,10 +34,18 @@
         "decimals": 18,
         "logoURI": "https://assets.coingecko.com/coins/images/53777/large/weth_2.jpg?1737340348"
       }
+      {
+        "chainId": 1868,
+        "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+        "symbol": "OUSDT",
+        "name": "OpenUSDT",
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/54815/large/ousdt.jpg?1741848258"
+      }
     ],
     "version": {
       "major": 1,
-      "minor": 0,
+      "minor": 1,
       "patch": 0
     }
   }
